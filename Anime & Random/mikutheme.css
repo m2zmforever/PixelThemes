@@ -18,15 +18,15 @@ th,
   text-shadow: 0 0 1px #000;
 }
 :root {
-  --main-color: blue;
-  --title-color: navy;
-  --important-color: blue;
-  --highlight-color: dodgerblue;
-  --border-color: darkblue;
-  --background-color: rgba(0, 0, 0, 0.85);
-  --highlight-background-color: rgba(64, 64, 64, 0.85);
-  --disable-background-color: grey;
-  --second-color: blue;
+  --main-color: lightblue;
+  --title-color: cornflowerblue;
+  --important-color: lightblue;
+  --highlight-color: skyblue;
+  --border-color: mediumblue;
+  --background-color: rgba(0, 0, 0, 0.75);
+  --highlight-background-color: rgba(64, 64, 64, 0.75);
+  --disable-background-color: lightgray;
+  --second-color: lightblue;
 }
 
 .channelbtn,

@@ -18,15 +18,15 @@ th,
   text-shadow: 0 0 1px #000;
 }
 :root {
-  --main-color: #111111;
-  --title-color: #0c0c0c;
+  --main-color: #e0e0e0;
+  --title-color: #d0d0d0;
   --important-color: #f5f5f5;
   --highlight-color: #d0d0d0;
   --border-color: #000000;
   --background-color: rgba(0, 0, 0, 0.85);
   --highlight-background-color: rgba(64, 64, 64, 0.85);
   --disable-background-color: grey;
-  --second-color: #000000; /* Added to define missing variable */
+  --second-color: #808080; /* Added to define missing variable */
 }
 
 .channelbtn,

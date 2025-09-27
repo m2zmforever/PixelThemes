@@ -26,6 +26,7 @@ th,
   --background-color: rgba(0, 0, 0, 0.85);
   --highlight-background-color: rgba(64, 64, 64, 0.85);
   --disable-background-color: grey;
+  --second-color: red;
 }
 
 .channelbtn,
@@ -227,7 +228,7 @@ a:hover {
 .modal {
   background:
     linear-gradient(#0006),
-    url("https://files.catbox.moe/s4h4zq.jpg");
+    url("https://files.catbox.moe/tlm44z.jpg");
   background-repeat: repeat no-repeat;
   background-size: cover;
   border: 1px solid #000;
