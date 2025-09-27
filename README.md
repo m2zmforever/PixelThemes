@@ -13,7 +13,7 @@ Tired of ordinary themes in Pixel games? Then this script is just for you.
 ## Installation
 
 1. Install a userscript manager like Tampermonkey or Greasemonkey in your browser.
-2. Click on the following link to install the script: [PixelThemes.user.js](https://github.com/m2zmforever/PixelThemes/raw/main/Script/PixelThemes.user.js)
+2. Click on the following link to install the script: [PixelThemes](https://github.com/m2zmforever/PixelThemes/raw/main/Script/PixelThemes.user.js)
 
 ## Usage
 
