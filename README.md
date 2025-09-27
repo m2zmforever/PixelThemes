@@ -59,11 +59,7 @@ PixelThemes comes with several built-in themes categorized into:
 
 ## Support
 
-For support or to report issues, please visit the [GitHub repository](https://github.com/m2zmforever/PixelThemes).
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+For support or to report issues, please visit the [Discord Server](https://discord.gg/VyfVmD2nhZ).
 
 ## Compatibility
 
