@@ -42,10 +42,11 @@ Tired of ordinary themes in Pixel games? Then this script is just for you.
 
 PixelThemes comes with several built-in themes categorized into:
 
-- **Color Themes**: Black Theme, Blue Theme, Gray Theme, Green Theme, Orange Theme, Pink Theme, Purple Theme, Yellow Theme
-- **Anime Themes**: Jane Theme, Miku Theme, Red Anime Theme, Samurai Theme, Seia Theme
-- **Country Themes**: Russia Theme, Türkiye Theme (Not Added)
-- **Special Themes**: Void Theme (by Darkness)
+- **Color Themes**: Black Theme, Blue Theme, Gray Theme, Green Theme, Orange Theme, Pink Theme, Purple Theme, Yellow Theme.
+- **Anime Themes**: Jane Theme, Miku Theme, Red Anime Theme, Samurai Theme, Seia Theme.
+- **Country Themes**: Russia Theme, Türkiye Theme and Barbaros Theme.
+- **Car Themes**: Supra Theme,R34 Theme and Focus RS Theme.
+- **Special Themes**: Void Theme (by Darkness).
 
 ## Authors
 
